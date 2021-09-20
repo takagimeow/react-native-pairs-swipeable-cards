@@ -1,9 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import {
-  Animated,
-  PanResponder,
-  Dimensions,
-} from 'react-native';
+import { Animated, PanResponder, Dimensions } from 'react-native';
 import { Card } from './Card';
 
 export function isDropArea(moveX: number) {
@@ -77,7 +73,7 @@ export function SwipeableCard({
           },
         ],
         {
-          listener: (_) => {
+          listener: _ => {
             if (onPanResponderMove) {
               onPanResponderMove(id, (pan.x as any)._value, (pan.y as any)._value);
             }

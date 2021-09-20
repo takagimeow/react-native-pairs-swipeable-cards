@@ -7,7 +7,7 @@ import { SwipeableCard } from '../components/SwipeableCard';
 
 jest.mock('@expo/vector-icons', () => {
   return {
-    FontAwesome: () => <View></View> as any,
+    FontAwesome: () => (<View></View>) as any,
   };
 });
 describe('SwipeableCard', () => {

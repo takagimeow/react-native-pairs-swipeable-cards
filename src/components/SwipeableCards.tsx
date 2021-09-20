@@ -1,9 +1,5 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
-import {
-  Animated,
-  StyleSheet,
-  View,
-} from 'react-native';
+import { Animated, StyleSheet, View } from 'react-native';
 import { SwipeableCard } from './SwipeableCard';
 import { CARD_HEIGHT, CARD_WIDTH } from './Card';
 
