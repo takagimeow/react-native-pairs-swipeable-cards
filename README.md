@@ -9,7 +9,7 @@
 This is the simplest swipeable cards component made for React Native.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66447334/132624539-87cf437e-992e-4a02-8d8c-b4e0dd0ebf79.gif" height="542" alt="Simple" />
+  <img src="https://user-images.githubusercontent.com/66447334/134050082-a6b258a1-f6fa-4ace-a7e8-99478ee6a650.jpg" height="542" alt="Simple" />
 </p>
 
 ## Installation
