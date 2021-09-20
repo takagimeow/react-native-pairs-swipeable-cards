@@ -1,0 +1,1312 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SwipeableCards Snapshot Test 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "justifyContent": "flex-end",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": "auto",
+        "marginBottom": 48,
+        "position": "relative",
+        "width": "auto",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 927.1299999999999,
+          "position": "relative",
+          "width": 686.25,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        onMoveShouldSetResponder={[Function]}
+        onMoveShouldSetResponderCapture={[Function]}
+        onResponderEnd={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderReject={[Function]}
+        onResponderRelease={[Function]}
+        onResponderStart={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#f0f0f0",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 927.1299999999999,
+            "left": 0,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "rotate": "0deg",
+              },
+              Object {
+                "scale": 0.925,
+              },
+            ],
+            "width": 686.25,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          nativeID="animatedComponent"
+          style={
+            Object {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderRadius": 11,
+              "height": "100%",
+              "left": 0,
+              "opacity": 0,
+              "paddingHorizontal": 8,
+              "paddingVertical": 8,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+              "zIndex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "flex-end",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginRight": 8,
+                }
+              }
+            >
+              <View />
+            </View>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 48,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              スキップ
+            </Text>
+          </View>
+        </View>
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "flex": 1,
+              "justifyContent": "flex-end",
+              "paddingVertical": 16,
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://pakutaso.cdn.rabify.me/shared/img/thumb/nekocatIMGL54791978.jpg.webp?d=710",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                },
+                Object {
+                  "borderRadius": 12,
+                },
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#2cd26b",
+                  "borderRadius": 25,
+                  "height": 16,
+                  "marginRight": 8,
+                  "width": 16,
+                }
+              }
+            />
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 32,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              川本つぐみ
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              24歳
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              東京都
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              ♡64%
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                読書好き
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                友達みたいな恋人が・・・
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                気ままにドライブに行きたい!
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        onMoveShouldSetResponder={[Function]}
+        onMoveShouldSetResponderCapture={[Function]}
+        onResponderEnd={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderReject={[Function]}
+        onResponderRelease={[Function]}
+        onResponderStart={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#f0f0f0",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 927.1299999999999,
+            "left": 0,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "rotate": "0deg",
+              },
+              Object {
+                "scale": 0.925,
+              },
+            ],
+            "width": 686.25,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          nativeID="animatedComponent"
+          style={
+            Object {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderRadius": 11,
+              "height": "100%",
+              "left": 0,
+              "opacity": 0,
+              "paddingHorizontal": 8,
+              "paddingVertical": 8,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+              "zIndex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "flex-end",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginRight": 8,
+                }
+              }
+            >
+              <View />
+            </View>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 48,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              スキップ
+            </Text>
+          </View>
+        </View>
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "flex": 1,
+              "justifyContent": "flex-end",
+              "paddingVertical": 16,
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://pakutaso.cdn.rabify.me/shared/img/thumb/SSK_hinatawomitumeruretoribar.jpg.webp?d=710",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                },
+                Object {
+                  "borderRadius": 12,
+                },
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cc0033",
+                  "borderRadius": 25,
+                  "height": 16,
+                  "marginRight": 8,
+                  "width": 16,
+                }
+              }
+            />
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 32,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              佐々木涼平
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              24歳
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              東京都
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              ♡64%
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                読書好き
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                友達みたいな恋人が・・・
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                気ままにドライブに行きたい!
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        onMoveShouldSetResponder={[Function]}
+        onMoveShouldSetResponderCapture={[Function]}
+        onResponderEnd={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderReject={[Function]}
+        onResponderRelease={[Function]}
+        onResponderStart={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#f0f0f0",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 927.1299999999999,
+            "left": 0,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "rotate": "0deg",
+              },
+              Object {
+                "scale": 0.925,
+              },
+            ],
+            "width": 686.25,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          nativeID="animatedComponent"
+          style={
+            Object {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderRadius": 11,
+              "height": "100%",
+              "left": 0,
+              "opacity": 0,
+              "paddingHorizontal": 8,
+              "paddingVertical": 8,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+              "zIndex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "flex-end",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginRight": 8,
+                }
+              }
+            >
+              <View />
+            </View>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 48,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              スキップ
+            </Text>
+          </View>
+        </View>
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "flex": 1,
+              "justifyContent": "flex-end",
+              "paddingVertical": 16,
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://pakutaso.cdn.rabify.me/shared/img/thumb/TS0529003.jpg.webp?d=1420",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                },
+                Object {
+                  "borderRadius": 12,
+                },
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cc0033",
+                  "borderRadius": 25,
+                  "height": 16,
+                  "marginRight": 8,
+                  "width": 16,
+                }
+              }
+            />
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 32,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              須藤亜里沙
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              24歳
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              福岡県
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              ♡64%
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                読書好き
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                友達みたいな恋人が・・・
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                気ままにドライブに行きたい!
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        onMoveShouldSetResponder={[Function]}
+        onMoveShouldSetResponderCapture={[Function]}
+        onResponderEnd={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderReject={[Function]}
+        onResponderRelease={[Function]}
+        onResponderStart={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#f0f0f0",
+            "borderRadius": 12,
+            "borderWidth": 1,
+            "height": 927.1299999999999,
+            "left": 0,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "rotate": "0deg",
+              },
+              Object {
+                "scale": 1,
+              },
+            ],
+            "width": 686.25,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          nativeID="animatedComponent"
+          style={
+            Object {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderRadius": 11,
+              "height": "100%",
+              "left": 0,
+              "opacity": 0,
+              "paddingHorizontal": 8,
+              "paddingVertical": 8,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+              "zIndex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "flex-end",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginRight": 8,
+                }
+              }
+            >
+              <View />
+            </View>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 48,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              スキップ
+            </Text>
+          </View>
+        </View>
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "flex": 1,
+              "justifyContent": "flex-end",
+              "paddingVertical": 16,
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://pakutaso.cdn.rabify.me/shared/img/thumb/AMEMAN17826009.jpg.webp?d=1420",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                },
+                Object {
+                  "borderRadius": 12,
+                },
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#2cd26b",
+                  "borderRadius": 25,
+                  "height": 16,
+                  "marginRight": 8,
+                  "width": 16,
+                }
+              }
+            />
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 32,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              高村美園
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginBottom": 8,
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              25歳
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              神奈川県
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              ♡64%
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "paddingHorizontal": 16,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                読書好き
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                友達みたいな恋人が・・・
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderRadius": 6,
+                  "marginRight": 6,
+                  "paddingHorizontal": 10,
+                  "paddingVertical": 8,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 8,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                気ままにドライブに行きたい!
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-around",
+        "paddingBottom": 32,
+        "paddingHorizontal": 64,
+        "width": 750,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderRadius": 50,
+          "elevation": 5,
+          "opacity": 1,
+          "paddingHorizontal": 8,
+          "paddingVertical": 8,
+          "shadowColor": "rgba(196, 196, 196, 0.25)",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 0,
+          },
+          "shadowOpacity": 2.5,
+          "shadowRadius": 7.4,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "width": 48,
+          }
+        }
+      >
+        <View />
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderRadius": 50,
+          "elevation": 5,
+          "opacity": 1,
+          "paddingHorizontal": 8,
+          "paddingVertical": 8,
+          "shadowColor": "rgba(196, 196, 196, 0.25)",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 0,
+          },
+          "shadowOpacity": 2.5,
+          "shadowRadius": 7.4,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "width": 48,
+          }
+        }
+      >
+        <View />
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderRadius": 50,
+          "elevation": 5,
+          "opacity": 1,
+          "paddingHorizontal": 8,
+          "paddingVertical": 8,
+          "shadowColor": "rgba(196, 196, 196, 0.25)",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 0,
+          },
+          "shadowOpacity": 2.5,
+          "shadowRadius": 7.4,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": 48,
+            "justifyContent": "center",
+            "width": 48,
+          }
+        }
+      >
+        <View />
+      </View>
+    </View>
+  </View>
+</View>
+`;

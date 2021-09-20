@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SwipeableCard Snapshot Test 1`] = `
+<View
+  collapsable={false}
+  nativeID="animatedComponent"
+  onMoveShouldSetResponder={[Function]}
+  onMoveShouldSetResponderCapture={[Function]}
+  onResponderEnd={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderReject={[Function]}
+  onResponderRelease={[Function]}
+  onResponderStart={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onStartShouldSetResponderCapture={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#f0f0f0",
+      "borderRadius": 12,
+      "borderWidth": 1,
+      "height": 927.1299999999999,
+      "left": 0,
+      "opacity": 1,
+      "position": "absolute",
+      "top": 0,
+      "transform": Array [
+        Object {
+          "rotate": "0deg",
+        },
+        Object {
+          "scale": 1,
+        },
+      ],
+      "width": 686.25,
+    }
+  }
+>
+  <View
+    collapsable={false}
+    nativeID="animatedComponent"
+    style={
+      Object {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": 11,
+        "height": "100%",
+        "left": 0,
+        "opacity": 0,
+        "paddingHorizontal": 8,
+        "paddingVertical": 8,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "flex-end",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "marginRight": 8,
+          }
+        }
+      >
+        <View />
+      </View>
+      <Text
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontSize": 48,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        スキップ
+      </Text>
+    </View>
+  </View>
+  <View />
+</View>
+`;

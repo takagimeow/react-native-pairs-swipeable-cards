@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controller Snapshot Test 1`] = `
+<View
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "space-around",
+      "paddingBottom": 32,
+      "paddingHorizontal": 64,
+      "width": 750,
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#ffffff",
+        "borderRadius": 50,
+        "elevation": 5,
+        "opacity": 1,
+        "paddingHorizontal": 8,
+        "paddingVertical": 8,
+        "shadowColor": "rgba(196, 196, 196, 0.25)",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 2.5,
+        "shadowRadius": 7.4,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "height": 48,
+          "justifyContent": "center",
+          "width": 48,
+        }
+      }
+    >
+      <View />
+    </View>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#ffffff",
+        "borderRadius": 50,
+        "elevation": 5,
+        "opacity": 1,
+        "paddingHorizontal": 8,
+        "paddingVertical": 8,
+        "shadowColor": "rgba(196, 196, 196, 0.25)",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 2.5,
+        "shadowRadius": 7.4,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "height": 48,
+          "justifyContent": "center",
+          "width": 48,
+        }
+      }
+    >
+      <View />
+    </View>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#ffffff",
+        "borderRadius": 50,
+        "elevation": 5,
+        "opacity": 1,
+        "paddingHorizontal": 8,
+        "paddingVertical": 8,
+        "shadowColor": "rgba(196, 196, 196, 0.25)",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 2.5,
+        "shadowRadius": 7.4,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "height": 48,
+          "justifyContent": "center",
+          "width": 48,
+        }
+      }
+    >
+      <View />
+    </View>
+  </View>
+</View>
+`;
